@@ -20,6 +20,12 @@
 - Java
 - Spring
 
+#### Tools I use:
+- IntelliJ IDEA - for backend
+- DataGrip - for database
+- VSC - for frontend
+- Postman - for testing APIs
+
 #### Basic understanding in other languages:
 - C#
 - Python
