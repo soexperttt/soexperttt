@@ -21,10 +21,10 @@
 - Spring
 
 #### Tools I use:
-- IntelliJ IDEA - for backend
-- DataGrip - for database
-- VSC - for frontend
-- Postman - for testing APIs
+- IntelliJ IDEA 
+- DataGrip 
+- VSC 
+- Postman 
 
 #### Basic understanding in other languages:
 - C#
