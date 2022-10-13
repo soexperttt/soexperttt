@@ -18,15 +18,12 @@
 - Java
 - Spring
 
-#### Tools I use:
+#### Tools:
 - IntelliJ IDEA 
 - DataGrip 
 - VSC 
 - Postman 
 
-#### Basic understanding in other languages:
-- C#
-- Python
 
 
 
