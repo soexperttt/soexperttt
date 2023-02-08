@@ -13,6 +13,7 @@
 - CSS
 - JavaScript
 - React
+- Bootstrap / Chakra UI / Material UI / Tailwind
 
 #### BackEnd:
 - Java
