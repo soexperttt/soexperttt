@@ -16,7 +16,7 @@
 
 #### BackEnd:
 - Java
-- Spring
+- Spring boot
 
 #### Tools:
 - IntelliJ IDEA 
